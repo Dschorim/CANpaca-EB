@@ -20,6 +20,7 @@ This is the extruder board from the CANpaca printer board family.
  - changed resistors from 0603 to 0402
  - decoupling caps are now properly placed close to power pins
  - added thermal vias below rp2040
+ - increased via diameter from 0.4mm to 0.45mm to save cost
 
 ### V0.1
  - initial release
