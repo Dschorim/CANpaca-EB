@@ -12,3 +12,14 @@ This is the extruder board from the CANpaca printer board family.
  - ADXL345 Accererometer
  - runout sensor
  - RGB lighting
+
+## Changelog
+
+### V0.2
+ - changed caps from 0603 to 0402
+ - changed resistors from 0603 to 0402
+ - decoupling caps are now properly placed close to power pins
+ - added thermal vias below rp2040
+
+### V0.1
+ - initial release

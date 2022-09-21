@@ -1,0 +1,38 @@
+** Drc report for /home/jorim/Documents/CANpaca/CANpaca-EB/hardware/CANpaca-EB-schematics-0.2/CANpaca-EB-schematics.kicad_pcb **
+** Created on 2022-09-21 17:00:18 **
+
+** Found 6 DRC violations **
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error
+    @(84.0000 mm, 58.2500 mm): Footprint U3
+    @(80.5000 mm, 62.7500 mm): Footprint C6
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error
+    @(103.7500 mm, 65.2500 mm): Footprint SW1
+    @(113.7750 mm, 58.0000 mm): Footprint J4
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error
+    @(108.5000 mm, 54.5000 mm): Footprint Q2
+    @(111.2500 mm, 53.2500 mm): Footprint D3
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error
+    @(106.7250 mm, 36.5000 mm): Footprint J11
+    @(99.2500 mm, 38.8125 mm): Footprint J9
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error
+    @(99.2500 mm, 38.8125 mm): Footprint J9
+    @(85.7500 mm, 40.5850 mm): Footprint J7
+[courtyards_overlap]: Courtyards overlap
+    Local override; Severity: error
+    @(112.4500 mm, 47.8000 mm): Footprint F1
+    @(113.7500 mm, 40.7500 mm): Footprint C22
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(115.5000 mm, 76.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(115.5000 mm, 76.0000 mm): Zone [GND] on F.Cu and 1 more
+
+** Found 0 Footprint errors **
+
+** End of Report **
