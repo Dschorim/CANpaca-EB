@@ -7957,7 +7957,7 @@
     (in_bom yes) (on_board yes)
     (uuid 2d53dc50-78ff-4921-94e4-a84c82efa0ea)
     (property "Reference" "R23" (id 0) (at 205.74 201.93 90))
-    (property "Value" "22R" (id 1) (at 205.74 204.47 90))
+    (property "Value" "27R" (id 1) (at 205.74 204.47 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 205.74 206.248 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8575,7 +8575,7 @@
     (in_bom yes) (on_board yes)
     (uuid 86c24caa-157e-47c9-a430-a6259a582c95)
     (property "Reference" "R18" (id 0) (at 175.26 201.93 90))
-    (property "Value" "22R" (id 1) (at 175.26 204.47 90))
+    (property "Value" "27R" (id 1) (at 175.26 204.47 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 175.26 206.248 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -10039,7 +10039,7 @@
       (reference "R17") (unit 1) (value "5.1K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/86c24caa-157e-47c9-a430-a6259a582c95"
-      (reference "R18") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R18") (unit 1) (value "27R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4bbd0da2-bc15-48da-9b80-bfb2a6f587eb"
       (reference "R19") (unit 1) (value "52.3K") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -10054,7 +10054,7 @@
       (reference "R22") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2d53dc50-78ff-4921-94e4-a84c82efa0ea"
-      (reference "R23") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R23") (unit 1) (value "27R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/a2fbcfb7-591c-46db-b8bf-d37e22704016"
       (reference "R24") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
