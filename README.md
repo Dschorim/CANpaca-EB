@@ -21,6 +21,7 @@ This is the extruder board from the CANpaca printer board family.
  - decoupling caps are now properly placed close to power pins
  - added thermal vias below rp2040
  - increased via diameter from 0.4mm to 0.45mm to save cost
+ - changed to hardware SPI pins
 
 ### V0.1
  - initial release
